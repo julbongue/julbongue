@@ -1,16 +1,16 @@
-## Hi there 👋
+# Juliano Samuel 👋
 
-<!--
-**julbongue/julbongue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineer | Backend & Systems
 
-Here are some ideas to get you started:
+Cadet at **42 Luanda** 🎓, focused on building reliable software, backend systems, and developing strong foundations in computer science and software engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Areas of Focus
+
+* ⚙️ Backend Development
+* 🖥️ Systems Programming
+* 🗄️ Databases & Data
+* 🧩 Software Engineering
+
+### 🌐 Connect
+
+* [LinkedIn](https://www.linkedin.com/)
