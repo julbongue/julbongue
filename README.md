@@ -1,4 +1,4 @@
-# Juliano Samuel 👋
+# Juliano Bongue 👋
 
 ### 💻 Software Engineer | Backend & Systems
 
