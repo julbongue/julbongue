@@ -13,4 +13,4 @@ Cadet at **42 Luanda** 🎓, focused on building reliable software, backend syst
 
 ### 🌐 Connect
 
-* [LinkedIn](www.linkedin.com/in/jbongue)
+* [LinkedIn](https://www.linkedin.com/in/jbongue)
